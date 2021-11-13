@@ -1,0 +1,3 @@
+(skewer-stylus-mode
+  :repo "preetpalS/skewer-stylus"
+  :fetcher github)
